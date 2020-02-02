@@ -1,0 +1,4 @@
+baseURL = "http://carly.kerrigan.io/"
+languageCode = "en-us"
+title = "Carly.Kerrigan.io"
+theme = "terrassa"
