@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carly.Kerrigan.io</title>
+    <link>http://carly.kerrigan.io/</link>
+    <description>Recent content on Carly.Kerrigan.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2020 10:33:01 -0500</lastBuildDate>
+    
+	<atom:link href="http://carly.kerrigan.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://carly.kerrigan.io/posts/my-first-post/</link>
+      <pubDate>Sun, 02 Feb 2020 10:33:01 -0500</pubDate>
+      
+      <guid>http://carly.kerrigan.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
